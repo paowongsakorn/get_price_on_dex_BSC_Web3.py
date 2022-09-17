@@ -54,3 +54,4 @@ def getPrice(factory,pair):
 
 getPrice(factory="Twindex",pair="DOP/BUSD")
 getPrice(factory="Pancake",pair="DOP/BUSD")
+print("hello?")
